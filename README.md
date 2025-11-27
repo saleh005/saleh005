@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @saleh005
-- 👀 I’m interested in Full-stack Development now.
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me => B0600242022@asoiu.edu.az
+- 👋 Hi, I’m Saleh.
+- 👀 I’m interested in Software Development now.
+- 🌱 I’m currently learning Back-end Development.
+- 📫 How to reach me => salehsahverdiyev201@gmail.com
 
 <!---
 saleh005/saleh005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
