@@ -1,4 +1,4 @@
-#👋 Hi, I’m Saleh.
+# Hi, I’m Saleh.
 
 <!---
 saleh005/saleh005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
